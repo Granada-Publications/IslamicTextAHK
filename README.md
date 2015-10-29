@@ -19,7 +19,11 @@ Predefined shortcuts
 - r.a. -> (RadiAllah 'anhu)
 - jzk -> JazakAllah khayran
 
+GUI WIP preview
+===================
+![](screen.png)
+
 To Do
 ======
 1. Make it independant of AutoHotkey by turning it into an .exe of its own.
-2. Add a GUI for easy editing of text shortcuts.
+2. Complete GUI interface for easy editing of text shortcuts.
